@@ -1,5 +1,8 @@
-Hi, I’m @shsgResume. I’m interested in modelling, it can be either Data Science only or other general applications of modelling. In particular, I have an interet to model Mathematical findings, Physics experiments and theories, as well as the general behaviour of data. I’m currently learning some game theory stuff because I enjoy the complexity of a seemingly simple situation
 
+![1710814235343](https://github.com/shsgResume/shsgResume/assets/167844966/1281364c-e1be-432d-b9c7-0a6699888259)
+
+Hi there, I'm an aspiring Physicists who has a keen interest in computational methods. I’m interested in the general applications of modelling, such as on Mathematical findings, Physics experiments and theories, as well as the general behaviour of data. 
+You can find some of the repositories for the code I've written to analyze data or simulate and model behaviours of phenomenons. If you have any questions, do ask!
 
 <!---
 shsgResume/shsgResume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
