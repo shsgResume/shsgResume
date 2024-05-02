@@ -6,7 +6,7 @@ You can find some of the repositories for the code I've written to analyze data 
 
 If you are here, you most probably have my contact already. Hope to hear from you soon. Thanks for your time!
 
-And Remember, if you have any questions, do ask!
+And remember, if you have any questions, do ask!
 
 <!---
 shsgResume/shsgResume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
