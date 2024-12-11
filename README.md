@@ -4,7 +4,7 @@
 Hi there, I'm an aspiring Physicist who has a keen interest in computational methods. I’m interested in the general applications of modelling, such as on Mathematical findings, Physics experiments and theories, as well as the general behaviour of data. 
 You can find some of the repositories for the code I've written to analyze data or simulate and model behaviours of phenomena. 
 
-If you are here, you most probably have my contact already. Hope to hear from you soon. Thanks for your time!
+If you are here, you most probably have my contact already. Thanks for your time!
 
 And remember, if you have any questions, don't hesitate!
 
